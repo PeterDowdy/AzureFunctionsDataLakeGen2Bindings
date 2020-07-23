@@ -1,4 +1,4 @@
-# AzureFunctionsDataLakeGen2Bindings
+# Webjobs.Extensions.DataLakeGen2
 
 ![Build status](https://dev.azure.com/peterdowdy/AzureFunctionsDataLakeGen2Bindings/_apis/build/status/AzureFunctionsDataLakeGen2Bindings%20Release)
 
