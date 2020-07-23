@@ -1,6 +1,6 @@
 # AzureFunctionsDataLakeGen2Bindings
 
-[![Build status](https://dev.azure.com/peterdowdy/AzureFunctionsDataLakeGen2Bindings/_apis/build/status/AzureFunctionsDataLakeGen2Bindings%20Release)](https://dev.azure.com/peterdowdy/AzureFunctionsDataLakeGen2Bindings/_build/latest?definitionId=5)
+![Build status](https://dev.azure.com/peterdowdy/AzureFunctionsDataLakeGen2Bindings/_apis/build/status/AzureFunctionsDataLakeGen2Bindings%20Release)
 
 ## Usage
 
