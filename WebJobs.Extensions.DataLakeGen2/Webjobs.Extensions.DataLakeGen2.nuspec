@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://www.github.com/PeterDowdy/AzureFunctionsDataLakeGen2Bindings</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>$releaseNotes$</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>Azure DataLake gen2, Azure Functions</tags>
+  </metadata>
+</package>

@@ -1,0 +1,17 @@
+{
+    "azureFunctions.deploySubpath": "Webjobs.Extensions.DataLakeGen2.Samples/bin/Release/netcoreapp3.1/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "publish",
+    "files.watcherExclude": {
+        "**/bin/**": true,
+        "**/obj/**": true
+    },
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    },
+    "editor.formatOnSave": true,
+    "debug.allowBreakpointsEverywhere": true
+}
